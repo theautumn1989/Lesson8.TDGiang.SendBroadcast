@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson8.TDGiang.SendBroadcast</string>
+    <string name="open_application_a">Open application A</string>
+    <string name="open_application_b">Open application B</string>
+</resources>
